@@ -1,2 +1,3 @@
-# sharpython-release
- Issues for sharpython
+# Sharpython
+
+This repository is for providing feedback on the [sharpython](https://pypi.org/project/sharpython/) python compiler
